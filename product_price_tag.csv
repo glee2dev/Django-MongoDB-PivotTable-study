@@ -1,0 +1,119 @@
+survey,product_name,product_id,kind,price
+Ipsos,세탁기,washer,None,1090000
+Ipsos,세탁기,washer,통돌이,450000
+Ipsos,세탁기,washer,드럼,900000
+Ipsos,세탁기,washer,미니세탁기,500000
+Ipsos,세탁기,washer,건조기 일체형,2500000
+Ipsos,에어컨,air_conditioner,None,1000000
+Ipsos,에어컨,air_conditioner,스탠드형,1400000
+Ipsos,에어컨,air_conditioner,2 in 1,1800000
+Ipsos,에어컨,air_conditioner,벽걸이형,600000
+Ipsos,에어컨,air_conditioner,창호형,800000
+Ipsos,에어컨,air_conditioner,이동형,400000
+Ipsos,에어컨,air_conditioner,시스템 에어컨,2000000
+Ipsos,의류관리기/신발관리기,styler,None,1200000
+Ipsos,의류관리기/신발관리기,styler,의류관리기,1200000
+Ipsos,의류관리기/신발관리기,styler,신발관리기,300000
+Ipsos,공청기,air_purifier,None,430000
+Ipsos,공청기,air_purifier,거실/안방용,800000
+Ipsos,공청기,air_purifier,책상/테이블용,400000
+Ipsos,공청기,air_purifier,자동차실내용,100000
+Ipsos,청소기,vacuum,None,580000
+Ipsos,청소기,vacuum,유선 청소기,150000
+Ipsos,청소기,vacuum,무선 청소기 (핸디형),100000
+Ipsos,청소기,vacuum,로봇 청소기,700000
+Ipsos,청소기,vacuum,무선스틱 청소기,500000
+Ipsos,청소기,vacuum,스팀 청소기,1000000
+Ipsos,청소기,vacuum,물걸레 청소기,1000000
+Ipsos,건조기,dryer,None,800000
+Ipsos,건조기,dryer,일반 건조기,800000
+Ipsos,건조기,dryer,세탁기 일체형,2500000
+Ipsos,제습기,dehumidifier,None,140000
+Ipsos,가습기,humidifier,None,140000
+Ipsos,안마의자,Massage_chair,None,1380000
+Ipsos,뷰티기기,beauty,None,490000
+Ipsos,뷰티기기,beauty,탄력 기기,300000
+Ipsos,뷰티기기,beauty,흡수촉진기,300000
+Ipsos,뷰티기기,beauty,클렌징 기기,100000
+Ipsos,뷰티기기,beauty,아이케어 기기,250000
+Ipsos,뷰티기기,beauty,마스크 (얼굴 피부 관리) 기기,1000000
+Ipsos,뷰티기기,beauty,목관리 기기,150000
+Ipsos,뷰티기기,beauty,두피관리 기기,1300000
+Ipsos,선풍기,fan,None,60000
+Ipsos,선풍기,fan,유선 선풍기,50000
+Ipsos,선풍기,fan,무선 선풍기,50000
+Ipsos,선풍기,fan,서큘레이터,40000
+Ipsos,선풍기,fan,냉풍기,100000
+Ipsos,음식물처리기,food_disposal,None,540000
+Ipsos,냉장고,refrigerator,None,730000
+Ipsos,냉장고,refrigerator,양문형 냉장고,1500000
+Ipsos,냉장고,refrigerator,상냉장/하냉동 냉장고,500000
+Ipsos,냉장고,refrigerator,상냉동/하냉장 (일반형) 냉장고,400000
+Ipsos,냉장고,refrigerator,냉동고,500000
+Ipsos,김치냉장고,kimchi_refrigerator,None,1100000
+Ipsos,와인셀러,wine_cellar,None,750000
+Ipsos,와인셀러,wine_cellar,8병 미만 보관,250000
+Ipsos,와인셀러,wine_cellar,8~40병 미만 보관,500000
+Ipsos,와인셀러,wine_cellar,40~80병 미만 보관,1000000
+Ipsos,와인셀러,wine_cellar,80병 이상 보관,1250000
+Ipsos,인덕션/하이라이트,induction,None,500000
+Ipsos,인덕션/하이라이트,induction,인덕션,600000
+Ipsos,인덕션/하이라이트,induction,하이라이트,400000
+Ipsos,인덕션/하이라이트,induction,하이브리드 (인덕션 + 하이라이트),500000
+Ipsos,인덕션/하이라이트,induction,가스레인지,200000
+Ipsos,식기세척기,dishwasher,None,550000
+Ipsos,식기세척기,dishwasher,설치 식기세척기: 6인 미만,500000
+Ipsos,식기세척기,dishwasher,설치 식기세척기: 6인 이상,700000
+Ipsos,식기세척기,dishwasher,무설치 식기세척기: 6인 미만,400000
+Ipsos,식기세척기,dishwasher,무설치 식기세척기: 6인 이상,600000
+Ipsos,정수기,water_purifier,None,780000
+Ipsos,정수기,water_purifier,냉온정수기,800000
+Ipsos,정수기,water_purifier,냉 정수기,700000
+Ipsos,정수기,water_purifier,정수 전용,300000
+Ipsos,정수기,water_purifier,얼음 정수기,1300000
+Ipsos,오븐,oven,None,530000
+Ipsos,오븐,oven,가스오븐,900000
+Ipsos,오븐,oven,전기오븐,300000
+Ipsos,오븐,oven,광파오븐,400000
+Ipsos,전자레인지/에어프라이어,microwave,None,120000
+Ipsos,전자레인지/에어프라이어,microwave,전자레인지,120000
+Ipsos,전자레인지/에어프라이어,microwave,에어프라이어,150000
+Ipsos,전기밥솥,rice_cooker,None,350000
+Ipsos,전기포트,kettle,None,40000
+Ipsos,커피머신,coffee_maker,None,190000
+Ipsos,커피머신,coffee_maker,전자동 커피머신,400000
+Ipsos,커피머신,coffee_maker,반자동 커피머신,200000
+Ipsos,커피머신,coffee_maker,캡슐 커피머신,120000
+Ipsos,커피머신,coffee_maker,커피메이커,50000
+Ipsos,TV,tv,None,940000
+Ipsos,TV,tv,LCD,500000
+Ipsos,TV,tv,LED,800000
+Ipsos,TV,tv,PDP,800000
+Ipsos,TV,tv,OLED/QLED,1600000
+Ipsos,TV,tv,이동식 TV,1000000
+Ipsos,TV,tv,브라운관,300000
+Ipsos,프로젝터/빔프로젝터,projector,None,980000
+Ipsos,프로젝터/빔프로젝터,projector,HD 미만 해상도,600000
+Ipsos,프로젝터/빔프로젝터,projector,HD,800000
+Ipsos,프로젝터/빔프로젝터,projector,Full HD,1000000
+Ipsos,프로젝터/빔프로젝터,projector,4K,1500000
+Ipsos,PC,pc,None,850000
+Ipsos,PC,pc,노트북,1000000
+Ipsos,PC,pc,데스크탑,700000
+Ipsos,모니터,monitor,None,350000
+Ipsos,스피커/사운드바/AI스피커,speaker,None,220000
+Ipsos,스피커/사운드바/AI스피커,speaker,사운드바,400000
+Ipsos,스피커/사운드바/AI스피커,speaker,홈시어터,400000
+Ipsos,스피커/사운드바/AI스피커,speaker,컴퓨터용 스피커,22000
+Ipsos,스피커/사운드바/AI스피커,speaker,"일반 오디오 스피커(전원o,블루투스)",340000
+Ipsos,스피커/사운드바/AI스피커,speaker,휴대용/무선 블루투스 스피커,60000
+Ipsos,스피커/사운드바/AI스피커,speaker,AI스피커,100000
+Ipsos,헤드셋/이어폰,headphone,None,210000
+Ipsos,헤드셋/이어폰,headphone,유선 헤드폰,200000
+Ipsos,헤드셋/이어폰,headphone,무선 헤드폰,400000
+Ipsos,헤드셋/이어폰,headphone,유선 이어폰,20000
+Ipsos,헤드셋/이어폰,headphone,무선 이어폰,200000
+Ipsos,스마트폰,phone,None,700000
+Ipsos,스마트워치,smart_watch,None,340000
+Ipsos,태블릿,tablet,None,630000
+Ipsos,게임콘솔,game_console,None,650000
